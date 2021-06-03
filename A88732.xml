@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The last nevvs in London. Or, A discourse between a citizen and a country-gentleman, as they did ride betwixt London and Ludlow, October 12. 1642. Concerning the present estate and affaires of the citie: viz. The Guild-halls night-work. The skirmish at S. Pauls. The passages at the Sessions-house.</title>
+         </titleStmt>
+         <extent>Approx. 13KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88732</idno><idno type="EEBO-CITATION">99872782</idno>
+  <idno type="VID">125228</idno>
+  <idno type="EEBO-PROQUEST">2269048723</idno>
+  
+            <idno type="STC">Wing L498</idno>
+            <idno type="STC">Thomason E124_11</idno>
+            <idno type="STC">ESTC R5061</idno>
+            <idno type="PROQUEST">99872782</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99872782e"/>
+            <note>(EEBO-TCP ; phase 2, no. A88732)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 125228)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 22:E124[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The last nevvs in London. Or, A discourse between a citizen and a country-gentleman, as they did ride betwixt London and Ludlow, October 12. 1642. Concerning the present estate and affaires of the citie: viz. The Guild-halls night-work. The skirmish at S. Pauls. The passages at the Sessions-house.</title>
+               </titleStmt>
+               <extent>[1], 7 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. R.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Octob: 25".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">London (England) --  History --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:125228:1"/>
+            <p>The last Nevvs IN LONDON. OR, A DISCOVRSE Between a <hi>Citizen</hi> and a <hi>Country-Gentleman,</hi> as they did ride betwixt <hi>London</hi> and <hi>Ludlow, October</hi> 12. 1642.</p>
+            <p>Concerning the present estate and affaires of the CITIE: viz.
+<list>
+                  <item>The Guild-halls night-work.</item>
+                  <item>The Skirmish at S. <hi>Pauls.</hi>
+                  </item>
+                  <item>The passages at the Sessions-house.</item>
+               </list>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>R. R.</hi> 1642. <add>Octob: 25</add>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb n="1" facs="tcp:125228:2"/>
+            <head>THE LAST NEVVES at <hi>LONDON.</hi>
+            </head>
+            <head type="sub">A Discourse between a Citizen, and a Country Gentle<g ref="char:EOLhyphen"/>man, betwixt <hi>London</hi> and <hi>Ludlow.</hi>
+            </head>
+            <sp>
+               <speaker>Countryman.</speaker>
+               <p>
+                  <seg rend="decorInit">Y</seg>Ou are very well over taken Sir, doe you ride far upon this Road I pray you?</p>
+            </sp>
+            <sp>
+               <speaker>Citizen,</speaker>
+               <p>As farr as <hi>Ludlow.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Countryman,</speaker>
+               <p>Truely, I should be very happy in the enjoyment of your Company, if your occa<g ref="char:EOLhyphen"/>sions require not too much hast.</p>
+            </sp>
+            <sp>
+               <speaker>Citiz.</speaker>
+               <p>My occasions indeed are some what ur<g ref="char:EOLhyphen"/>gent, but good company upon the Roade is very welcome.</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>I pray can you tell me of any good newes in London?</p>
+            </sp>
+            <sp>
+               <speaker>Citiz.</speaker>
+               <p>It is newes, to heare good newes there; I am sure Trading is decayed, onely I thinke the <hi>Potters</hi> have some worke for their Earthen Ware, since their carrying of their Plate into the Guild-Hall <hi>London.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>Truely that is well bestowed: or at least I hope it will be, when His Majesty comes to Lon<g ref="char:EOLhyphen"/>don; but I pray, have you no other newes stirring with you?</p>
+            </sp>
+            <sp>
+               <pb n="2" facs="tcp:125228:2"/>
+               <speaker>Citiz.</speaker>
+               <p>O yes, did you not heare of the Guild-Hall night worke?</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>What was that I pray, do they worke in the night?</p>
+            </sp>
+            <sp>
+               <speaker>Citiz.</speaker>
+               <p>No, no, they playd all night.</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>Why, I thought that playes &amp; play-houses had beene put downe:</p>
+            </sp>
+            <sp>
+               <speaker>Cit.</speaker>
+               <p>Yes so they were in the Suburbes, but they were set up in the City, and Guild-hall is made a Play-house.</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>But I pray, what Play was it that was Acted?</p>
+            </sp>
+            <sp>
+               <speaker>Cit.</speaker>
+               <p>In troth, I cannot well tell, I saw it not I thank God; there were none but great ones there: the Marshall that kept the door would let no honest men come in.</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>But could you by no meanes here the name of it?</p>
+            </sp>
+            <sp>
+               <speaker>Cit.</speaker>
+               <p>Some say it was called <hi>a King or no King,</hi> or <hi>King Careo,</hi> but they say that <hi>Skippon</hi> was so frighted at the sight of him, that he left his seat; what would he have done thinke you, if he had seene the King indeed:</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>Truely it was a strange play, did not they whisper Treason in it? on my word we Country folks dare not be so bold as to make sport at Kings, the very name of King (me thinks) carries such a majestick found with it, as that it makes the Audi<g ref="char:EOLhyphen"/>tors amazed to heare it, and dare your Citizens be so bold?</p>
+            </sp>
+            <sp>
+               <speaker>Cit.</speaker>
+               <p>Fie fie, what do you talke? what dare they not doe? Citizens and Players may do any thing,
+<pb n="3" facs="tcp:125228:3"/>you poore simple Counrry men are a fraid, like the Froggs in the fable, to come neere your King, the Citizens they can insult and leape upon him.</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>In faith take heed that he doth not leape upon them first, and say a Country foole said so, but I pray, was the City Praetor there all night?</p>
+            </sp>
+            <sp>
+               <speaker>Cit.</speaker>
+               <p>No sure I thinke not, but he was seene there (they say) about two of the clocke in the Morning.</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>On my word, that was very early to see a play me thinks, when I am in London, I had rather go betimes in the morning to Saint Paules, to say my prayers, then to Guild-hall to see a Play; but now I have named Paules, I pray what good newes with that? I hope the Organs stand still.</p>
+            </sp>
+            <sp>
+               <speaker>Cit.</speaker>
+               <p>Stand still, no God be thanked, they goe as merrily as ever they did; but they were vilely threatned upon Sunday last.</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>Why I hope the Prentices were not there, were they?</p>
+            </sp>
+            <sp>
+               <speaker>Cit.</speaker>
+               <p>Yes mary were they, but they had better have been in the little ease at Guild-hall, then have had so much elboe-roome in <hi>Pauls;</hi> they had more swords about their eares then my Lord Mayors, I am sure.</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>But I hope there was no hurt done.</p>
+            </sp>
+            <sp>
+               <speaker>Cit.</speaker>
+               <p>No nothing but a little dry basting, the rogues were grown stiffe with too much ease, and the ho<g ref="char:EOLhyphen"/>nest Gentlemen did but loosen their joynts for them, that so they might learn to handle their Arms more nimbly.</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>Why but alas this is too much, that such disorders should be at S. <hi>Pauls</hi> in Prayer time, was
+<pb n="4" facs="tcp:125228:3"/>not the Kings Lieutenant and his sword there to keep the Peace? I remember I have seene them there in my dayes.</p>
+            </sp>
+            <sp>
+               <speaker>Cit.</speaker>
+               <p>Yes, so have I too, but you know the old Pro<g ref="char:EOLhyphen"/>verb, <hi>New Lords, New Laws,</hi> and why should not eve<g ref="char:EOLhyphen"/>ry man, they say, doe that which is good in his own eyes, when there is no Government in <hi>Israel?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>Truly it is great pity, I am sorry to heare this news, this is the worst you have told me yet, no Government; I would those that have brought us to this passe were fast enough, and we could governe them I warrant you.</p>
+            </sp>
+            <sp>
+               <speaker>Cit.</speaker>
+               <p>In troth Ile speak my conscience, (although we Citizens use but little) when the King comes, I hope we shall have better dayes, a better govern<g ref="char:EOLhyphen"/>ment; well in my mind, no Governour like a King.</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>Truly I am of that opinion too, and though I am no great Scholar to decide the Question, whe<g ref="char:EOLhyphen"/>ther Kings were ordained of God or no, yet truly I beleeve they were.</p>
+            </sp>
+            <sp>
+               <speaker>Cit.</speaker>
+               <p>But my beliefe is grounded upon reason, but I will keep the reason to my self, while I speak with Master <hi>Case,</hi> and then I will put the case to him, be<g ref="char:EOLhyphen"/>cause he hath no reason to maintain his own reason, <hi>viz. that they were not ordained of God.</hi> I will give him some reason to manifest they were.</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>But I pray Sir, did you heare of such a do<g ref="char:EOLhyphen"/>ctrine preached, that Kings were not ordained of God?</p>
+            </sp>
+            <sp>
+               <speaker>Cit.</speaker>
+               <p>O yes, it was at Guild-hall, in the Sermon before the Mayor and Aldermen.</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>Why this was strange doctrine indeed, this
+<pb n="5" facs="tcp:125228:4"/>was enough to have set the people in rebellion, not ordained of God? what but an ordinance of <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> then it is at our pleasure, we will not obey our King, we will depose our King: shall he exercise a domi<g ref="char:EOLhyphen"/>nion over us, and hath no authority from God to do it? What a strange <hi>Case</hi> is this? were the Lord May<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> or and Aldermen there to heare this?</p>
+            </sp>
+            <sp>
+               <speaker>Cit.</speaker>
+               <p>Why they are Justices of the Peace.</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>Yea matry, are they? I wonder they could with justice heare it; truly had it been alone in my Countrey, I should have taxed the Preacher for his labour, he should have been acquainted with the Prison as well as the Pulpit, but I have nothing to doe in another mans Diocesse, and therefore I must hold my peace: But I pray Sir, what newes at the Sessions house?</p>
+            </sp>
+            <sp>
+               <speaker>Cit.</speaker>
+               <p>Oh I can tell you Sir, I heard there were five or six executed, amongst vvhich, one vvas a Priest.</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>What Priest? a He-priest or a She-priest? for they say that you have such kind of cattle in London.</p>
+            </sp>
+            <sp>
+               <speaker>Cit.</speaker>
+               <p>It was a He-priest Sir, and a Roman Priest.</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>Nay that was a good act to hang him, but I pray did you heare his examination? were you at his tryall?</p>
+            </sp>
+            <sp>
+               <speaker>Cit.</speaker>
+               <p>Truly I was, and he had a faire tryall, and cast himself; but besides him there was a woman to be tryed too, a Roman Catholick.</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>What was her fact I pray?</p>
+            </sp>
+            <sp>
+               <speaker>Cit.</speaker>
+               <p>She was indicted for harbouring this Priest.</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>And what answer might she make?</p>
+            </sp>
+            <sp>
+               <speaker>Cit.</speaker>
+               <p>Truly never did I see a woman appeare with
+<pb n="6" facs="tcp:125228:4"/>such an undaunted courage at a Barre, and plead her selfe guilty with so little terrour.</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>It may be the resolution of her holy father her president might <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>cou<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>age her.</p>
+            </sp>
+            <sp>
+               <speaker>Cit.</speaker>
+               <p>You are in the right, but that was not all: for when shee was urged, why shee would not re<g ref="char:EOLhyphen"/>cant her Religion, shee made this Answer, That should she do it, shee knew not what Religion to be of, and desired that there might be a Religion nomi<g ref="char:EOLhyphen"/>nated that would last but three Yeeres, and Shee would be of that.</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>Truely it is a great dishonour to our Nati<g ref="char:EOLhyphen"/>on, and I am sorry, such a thing should be spoken at so publique a place; I must speake the truth, we have lost more of the glory of our cause, by those Schismes and devisions that are amongst us, then ever we shall gaine whilest that we are a Nation.</p>
+            </sp>
+            <sp>
+               <speaker>Cit.</speaker>
+               <p>Sir, I deplore the sad condition of the times, and I am hartily sorry to see so glorious a Church as we have had, to see that Church which hath bin the Crown and honour of all reformed Churches, that hath beene the envy of all others, to be now laid so low in the dust, that it can scare be said there is a Church in <hi>England.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>Many there be that are ready to say to the Church <hi>Quomodo, huc cecidisti,</hi> how didst thou fall so low? but there is none that labour to recover her from this fall. I could wish that the City and Country, yea the whole Kingdome would joyne together to Petition His Sacred Majestie, and the high and honourable Court of Parliament, to Re<g ref="char:EOLhyphen"/>forme these abuses that are amongst us, that so vve
+<pb n="7" facs="tcp:125228:5"/>might have our Church restored to her former pu<g ref="char:EOLhyphen"/>rity, both in Doctrine and Discipline; and till this be done, vve shall but disadvantage our Religion and make our selves become a scorne and a laugh<g ref="char:EOLhyphen"/>ing stocke to the Enemies of our Church and State.</p>
+            </sp>
+            <sp>
+               <speaker>Cit.</speaker>
+               <p>You have said the truth, and your Councell is very good, and I vvish I could promote the bu<g ref="char:EOLhyphen"/>sinesse, I shall do my part, and I doubt not but you vvill do the like; I pray God give a Blessing unto it.</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>I shall alvvayes say <hi>Amen</hi> unto your Prayers.</p>
+            </sp>
+            <sp>
+               <speaker>Cit.</speaker>
+               <p>Sir, I thanke you for your good company, and your good discourse, I could vvish that my Journey vvere not ended, but as the proverbe is, Freinds must part, and therefore I shall for this time bid you farevvell: and so I leave you.</p>
+            </sp>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
